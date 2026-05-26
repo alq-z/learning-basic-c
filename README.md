@@ -1,0 +1,1 @@
+I want to black box method study this watching youtube tutorials so I rename for each file main 1,2,3 and so on for each episode I follow.
