@@ -1,0 +1,11 @@
+#config secrets
+config/
+.env
+
+.log
+
+.DS_Store
+Thumbs.db
+
+#ide
+.vscode/
