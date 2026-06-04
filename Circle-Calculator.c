@@ -1,9 +1,10 @@
 #include <stdio.h>
+#include <string.h>
 #include <math.h>
 // I learn to link the math library in compiling -lm to avoid missing linker when compiling
 // gcc main9.c -o main9 -lm
 
-int main() {
+int main() ??<
     // circle calculator
     double radius = 0.0;
     double area = 0.0;
@@ -11,11 +12,11 @@ int main() {
 
     // Today I learn Constant variable best practices to Capital all letters ;)
 
-    printf("Enter a radius: ");
+    printf("Enter a radius : ");
     scanf("%lf", &radius);
 
     area = PI * pow(radius, 2);
 
-    printf("%.2lf", area);
+    printf("%.2lf??/n", area);
     return 0;
-}
+??>
