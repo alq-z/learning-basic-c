@@ -25,7 +25,7 @@ int main() {
     
 
     getchar();
-    printf("Namae wa nan deska?:");
+    printf("Namae wa?:");
     fgets(name, sizeof(name), stdin); //stdin is standard input
     // scanf("%s", name);
     name[strlen(name) - 1] = '\0';
