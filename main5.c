@@ -9,6 +9,8 @@ int main() {
     char name[30] = ""; // this is string and it set to 30 string or bit
     // I need to use null terminator \0 in an empty char or string value to effectively clear it our effectively the input buffer
     // or getchar() to clear the input buffer
+    printf("Welcome");
+    
     printf("Enter Your Age: ");
     scanf("%d", &age);
 
@@ -35,7 +37,7 @@ int main() {
     printf("So your gpa is %.2f \n", gpa);
     printf("Your Grade is %c \n", grade);
    
-
+   
 
     return 0;
 }
