@@ -7,7 +7,7 @@ int main() {
 
     int age = 25;
     int year = 2029;
-    int quantity = 1;
+    int quantity = 5;
 
     float gpa = 3.6;
     float price = 19.99;
@@ -29,7 +29,7 @@ int main() {
     // ---- char it store a single character and it use single quote
     // char format specifier is %c
 
-    char grade = 'F';
+    char grade = 'A';
     char symbol = '8';
     char currency = '%';
     
