@@ -7,6 +7,7 @@ int main(){
     
     // comment
     printf("%c", name[3]);
+    printf("%d %f", age, weight);
     printf("I like cokies\n");
     printf("I love chocolates\n");
 
