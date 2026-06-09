@@ -6,6 +6,7 @@ int main(){
     float weight = 45.5;
     
     // comment
+    printf("%c", name[3]);
     printf("I like cokies\n");
     printf("I love chocolates\n");
 
