@@ -28,7 +28,7 @@ int main(){
 
     total = principal * pow(1 + rate / timesCompounded, timesCompounded * years);
 
-
+    printf("Loading...\n");
     printf("After %d years, the total will be $%.2lf\n", years, total);
 
 
