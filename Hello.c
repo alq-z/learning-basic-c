@@ -12,6 +12,6 @@ void sayHello(){
   return printf("Hello, World");
 }
 int add(int x, int y){
-  
+  x + y;
   return 0;
 }
