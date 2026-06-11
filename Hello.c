@@ -2,7 +2,9 @@
 void sayHello();
 int add(int x, int y);
 int main (){
-
+  int x = 0;
+  int y = 0;
+  
   printf("This will print Hello");
   sayHello();
   return 0;
