@@ -7,6 +7,8 @@ int main (){
   
   printf("This will print Hello");
   sayHello();
+  int result = add(x, y);
+  printf("%d", result);
   return 0;
 }
 
