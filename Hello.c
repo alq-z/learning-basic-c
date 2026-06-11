@@ -1,5 +1,6 @@
 #include <stdio.h>
 void sayHello();
+int add(int x, int y);
 int main (){
 
   printf("This will print Hello");
