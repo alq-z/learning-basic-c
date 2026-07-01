@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(){
+int main(void){
 
   int a = 010, b = 8;
 
@@ -9,10 +9,6 @@ int main(){
   b = tmp;
 
   printf("a: %d\n", a);
+  printf("\n");
   printf("b: %d", b);
-
-
-
-
-  return 0;
 }
