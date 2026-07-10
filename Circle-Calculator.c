@@ -2,7 +2,7 @@
 #include <string.h>
 #include <math.h>
 // I learn to link the math library in compiling -lm to avoid missing linker when compiling
-// gcc main9.c -o main9 -lm
+// gcc main9.c -o main9 -lm -trigraphs
 
 int main() ??<
     // circle calculator
