@@ -13,7 +13,7 @@ int main (){
 }
 
 void sayHello(){
-  return printf("Hello, World");
+  return printf("Hello, World\n");
 }
 int add(int x, int y){
   int result = x + y;
