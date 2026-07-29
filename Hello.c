@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdbool.h>
 void sayHello();
 int add(int x, int y);
 int main (){
