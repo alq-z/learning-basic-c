@@ -10,7 +10,7 @@ int main() ??<
     double area = 0.0;
     const double PI = 3.14159;
 
-    // Today I learn Constant variable best practices to Capital all letters ;)
+    // ask input 
     printf("Corcle Calculator");
     printf("Enter a radius : ");
     scanf("%lf", &radius);
