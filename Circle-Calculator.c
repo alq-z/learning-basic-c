@@ -11,7 +11,7 @@ int main() ??<
     const double PI = 3.14159;
 
     // ask input 
-    printf("Corcle Calculator");
+    printf("Circle Calculator");
     printf("Enter a radius : ");
     scanf("%lf", &radius);
 
