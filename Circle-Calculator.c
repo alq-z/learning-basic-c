@@ -6,7 +6,7 @@
 
 int main() ??<
     // circle calculator
-    // initialize variable 
+    // initialize thr variable 
     double radius = 0.0;
     double area = 0.0;
     const double PI = 3.14159;
